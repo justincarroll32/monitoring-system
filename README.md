@@ -1,4 +1,4 @@
-# Monitoring System on MacOS
+# Monitoring System on MacOS (Python and Bash)
 
 This program records mouse camera snapshots, movement, scrolls, clicks, network information, operating system details, and hardware/software configuration details.
 
